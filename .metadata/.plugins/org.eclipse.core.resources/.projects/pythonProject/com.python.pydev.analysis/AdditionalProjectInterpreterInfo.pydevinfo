@@ -1,0 +1,59 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\miko\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\pythonProject\com.python.pydev.analysis\v2_indexcache
+New|1641498326901113000|C:\Users\miko\eclipse-workspace\pythonProject\New.py
+BirthMonth|1638448435484444100|C:\Users\miko\eclipse-workspace\pythonProject\BirthMonth.py
+StudentList|1638460707027222200|C:\Users\miko\eclipse-workspace\pythonProject\StudentList.py
+Practice|1638896841491628000|C:\Users\miko\eclipse-workspace\pythonProject\Practice.py
+Adjacency|1641498982946404600|C:\Users\miko\eclipse-workspace\pythonProject\Adjacency.py
+SayHi.__init__|1638275478854869300|C:\Users\miko\eclipse-workspace\pythonProject\SayHi\__init__.py
+11Taskperformance|1642593598490059500|C:\Users\miko\eclipse-workspace\pythonProject\11Taskperformance.py
+08activity|1638452400417367500|C:\Users\miko\eclipse-workspace\pythonProject\08activity.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+2=New
+7=C:\Users\miko\eclipse-workspace\pythonProject\BirthMonth.py
+11=C:\Users\miko\eclipse-workspace\pythonProject\SayHi\__init__.py
+8=BirthMonth
+10=StudentList
+5=C:\Users\miko\eclipse-workspace\pythonProject\11Taskperformance.py
+9=C:\Users\miko\eclipse-workspace\pythonProject\StudentList.py
+16=Practice
+1=C:\Users\miko\eclipse-workspace\pythonProject\New.py
+13=C:\Users\miko\eclipse-workspace\pythonProject\08activity.py
+3=C:\Users\miko\eclipse-workspace\pythonProject\Adjacency.py
+4=Adjacency
+12=SayHi.__init__
+15=C:\Users\miko\eclipse-workspace\pythonProject\Practice.py
+6=11Taskperformance
+14=08activity
+-- END DICTIONARY
+-- START TREE 1
+22
+Hi|1|Hi!1^10#6*19@
+adj|1|adjlist!3^1#1*35@
+aga|1|again!5^90#5*51@
+ask|1|ask!5^72#10*51@
+bas|1|basicInfo!5^27#10*51@
+cho|1|Choose!5^18#5*51@
+gro|2|group2!7^2#1*67@group1!7^1#1*67@
+my|1|my!7^16#1*67@
+myn|2|myname!9^19#1*83@mynum!9^17#1*83@
+nam|2|name!9^7#5*83@name!5^6#1*51@
+nex|2|next_item!11^12#13*99@next!1^12#6*19@
+nic|2|nickname!1^6#1*19@nickname!11^7#5*99@
+num|2|num!9^5#5*83@number!11^5#1*99@
+p|1|p!11^2#1*99@
+pri|1|PriorityQueue!1^1#5*18@
+pro|2|programs!13^2#1*115@programs_map!15^1#1*131@
+say|1|sayHi!11^10#9*99@
+sel|1|self!7^3#1*67@
+sst|1|SST!5^52#10*51@
+stu|1|students!9^1#1*83@
+und|1|undigraph!3^2#1*35@
+y|1|y!5^9#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

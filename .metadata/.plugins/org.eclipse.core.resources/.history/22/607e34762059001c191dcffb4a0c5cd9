@@ -1,0 +1,173 @@
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.util.*;
+import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
+
+public class LabExer7A{
+	 public static void main(String[] args)
+	 {
+	  RunNumberFinder Numberfinder = new RunNumberFinder();
+	 }
+}
+ class RunNumberFinder extends JFrame implements MouseListener
+{
+
+         static int attempts = 1;
+         int RandomNumber;
+ 
+         String complete = "false";
+ 
+         JLabel Jlbl01 = new JLabel("1");
+         JLabel Jlbl02 = new JLabel("2");
+         JLabel Jlbl03 = new JLabel("3");
+         JLabel Jlbl04 = new JLabel("4");
+         JLabel Jlbl05 = new JLabel("5");
+         JLabel Jlbl06 = new JLabel("6");
+         JLabel Jlbl07 = new JLabel("7");
+         JLabel Jlbl08 = new JLabel("8");
+         JLabel Jlbl09 = new JLabel("9");
+         JLabel Jlbl10 = new JLabel("");
+         Button bttnPlayAgain = new Button("Play Again");
+         
+         
+       public RunNumberFinder()
+ {
+           super ("Number Finder");
+           bttnPlayAgain.setVisible(false);
+           JFrame Fr = new JFrame();
+           FlowLayout Fl = new FlowLayout();
+           Font Fnt1 = new Font("Arial", Font.BOLD, 100);
+           Font Fnt2 = new Font("Century", Font.BOLD, 20);
+ 
+           Fr.setSize(600,200);
+           Fr.setTitle("Number Finder");
+           Fr.setDefaultCloseOperation(EXIT_ON_CLOSE);
+           Fr.setLayout(Fl);
+           Fr.setVisible(true);
+           Fr.setLocationRelativeTo(null);
+           bttnPlayAgain.setFont(Fnt2);
+ 
+           Fr.add(Jlbl01);
+           Fr.add(Jlbl02);
+           Fr.add(Jlbl03);
+           Fr.add(Jlbl04);
+           Fr.add(Jlbl05);
+           Fr.add(Jlbl06);
+           Fr.add(Jlbl07);
+           Fr.add(Jlbl08);
+           Fr.add(Jlbl09);
+           Fr.add(Jlbl10);
+           Fr.add(bttnPlayAgain);
+           
+           Jlbl01.setFont(Fnt1);
+           Jlbl02.setFont(Fnt1);
+           Jlbl03.setFont(Fnt1);
+           Jlbl04.setFont(Fnt1);
+           Jlbl05.setFont(Fnt1);
+           Jlbl06.setFont(Fnt1);
+           Jlbl07.setFont(Fnt1);
+           Jlbl08.setFont(Fnt1);
+           Jlbl09.setFont(Fnt1);
+           Jlbl10.setFont(Fnt2);
+ 
+ 
+           Jlbl01.addMouseListener(this);
+           Jlbl02.addMouseListener(this);
+           Jlbl03.addMouseListener(this);
+           Jlbl04.addMouseListener(this);
+           Jlbl05.addMouseListener(this);
+           Jlbl06.addMouseListener(this);
+           Jlbl07.addMouseListener(this);
+           Jlbl08.addMouseListener(this);
+           Jlbl09.addMouseListener(this);
+           bttnPlayAgain.addMouseListener(this);
+}
+
+    public void mouseClicked(MouseEvent event){
+ 
+ 
+               if(event.getSource()==Jlbl01)
+ {
+                    Jlbl01.getText();
+                    Jlbl10.setText("Try Again!");
+                    Jlbl01.setEnabled(false);
+                    attempts++;
+ }
+               else if(event.getSource()==Jlbl02)
+ {
+                   Jlbl02.getText();
+                   Jlbl10.setText("Try Again!");
+                   Jlbl02.setEnabled(false);
+                   attempts++;
+ }
+               else if(event.getSource()==Jlbl03)
+ {
+                   Jlbl03.getText();
+                   Jlbl10.setText("Try Again!");
+                   Jlbl03.setEnabled(false);
+                   attempts++;
+ }
+               else if(event.getSource()==Jlbl04)
+ {
+                   Jlbl04.getText();
+                   Jlbl10.setText("Try Again!");
+                   Jlbl04.setEnabled(false);
+                   attempts++;
+ }
+               else if(event.getSource()==Jlbl05){
+                   Jlbl05.getText();
+                   Jlbl10.setText("Try Again!");
+                   Jlbl05.setEnabled(false);
+                   attempts++;
+ }
+               else if(event.getSource()==Jlbl06){
+                   Jlbl06.getText();
+                   Jlbl06.setEnabled(true);
+                   Jlbl10.setText("Correct! " + attempts + " attempt(s)");
+                   attempts++;
+                   Jlbl01.setEnabled(false);
+                   Jlbl02.setEnabled(false);
+                   Jlbl03.setEnabled(false);
+                   Jlbl04.setEnabled(false);
+                   Jlbl05.setEnabled(false);
+                   Jlbl07.setEnabled(false);
+                   Jlbl08.setEnabled(false);
+                   Jlbl09.setEnabled(false);
+ }
+               else if(event.getSource()==Jlbl07){
+                   Jlbl07.getText();
+                   Jlbl10.setText("Try Again!");
+                   Jlbl07.setEnabled(false);
+                    attempts++;
+ }
+                else if(event.getSource()==Jlbl08)
+ {
+                     Jlbl08.getText();
+                     Jlbl10.setText("Try Again!");
+                     Jlbl08.setEnabled(false);
+                     attempts++;
+ }
+                 else if(event.getSource()==Jlbl09)
+ {
+                     Jlbl09.getText();
+                     Jlbl10.setText("Try Again!");
+                     Jlbl09.setEnabled(false);
+                     attempts++;
+ }
+}
+
+          public void mousePressed(MouseEvent e){
+}
+
+          public void mouseReleased(MouseEvent e){
+}
+ 
+          public void mouseEntered(MouseEvent e){
+}
+ 
+          public void mouseExited(MouseEvent e){
+}
+ 
+ 
+}

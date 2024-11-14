@@ -1,0 +1,22 @@
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.border.*;
+
+public class Drawing extends JFrame {
+	
+	public static void main(String[] args) {
+		Drawing  dr = new Drawing();
+		dr.setSize(400,400);
+		dr.setVisible(true);
+		dr.setLocationRelativeTo(null);
+		
+	}
+	public void paint(Graphics g) {
+		g.setColor(Color.BLACK);
+		g.drawArc(127, 110 ,150 , 155 ,0,360);
+		g.setColor(Color.RED);
+		g.fillArc(130, 100 ,150 , 150 ,0,360);
+		
+		
+	}
+}

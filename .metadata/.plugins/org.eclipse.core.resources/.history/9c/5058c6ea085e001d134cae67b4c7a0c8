@@ -1,0 +1,9 @@
+package TestFactory;
+
+public class TestFactory {
+
+	public TestFactory() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

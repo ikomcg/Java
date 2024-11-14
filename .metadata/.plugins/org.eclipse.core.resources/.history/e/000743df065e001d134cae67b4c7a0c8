@@ -1,0 +1,22 @@
+package TestFactory;
+class Minimum extends Laptop{
+	
+	private int ram, ssd;
+	private String cpu;
+	
+	public Minimum(int ram, int ssd, String cpu){
+		  this.ram=ram;
+		  this.ssd=ssd;
+		  this.cpu=cpu;
+		}
+	
+	public int getRAM() {
+		return this.ram
+	}
+	public int getS() {
+		return this.ssd
+	}
+	public String getCpu() {
+		return this.cpu
+	}
+}

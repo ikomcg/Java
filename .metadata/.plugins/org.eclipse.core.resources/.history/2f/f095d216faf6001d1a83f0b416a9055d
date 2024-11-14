@@ -1,0 +1,24 @@
+package Programing_Language;
+import java.util.Scanner;
+public class _06_Hands_on_Activity_1 {
+	public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Enter a 6-digit number: ");
+        int number = scanner.nextInt();
+
+        int removedNum = number % 10;
+        int newDigit = number / 10;
+
+        int remainder = newDigit % 7;
+
+        System.out.println(remainder == newDigit);
+
+    }
+}
+
+
+
+
+
+

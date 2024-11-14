@@ -1,0 +1,30 @@
+package Programing_Language;
+import java.util.Scanner;
+public class _06_Hands_on_Activity_1 {
+	    public static void main(String[] args) {
+	        Scanner scanner = new Scanner(System.in);
+
+	        System.out.print("Enter a 6-digit number: ");
+	        int number = scanner.nextInt();
+
+	        int removedDigit = number % 10; // Step 1: Remove the last digit
+	        int newNumber = number / 10;
+
+	        int remainder = newNumber % 7; // Step 2: Calculate remainder after division by 7
+
+	        System.out.println("Removed Digit: " + removedDigit);
+	        System.out.println("Remainder: " + remainder);
+
+	        if (removedDigit == remainder) { // Step 3: Check if remainder is equal to the removed digit
+	            System.out.println("The remainder is equal to the removed digit.");
+	        } else {
+	            System.out.println("The remainder is not equal to the removed digit.");
+	        }
+	    }
+	}
+
+
+
+
+
+

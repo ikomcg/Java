@@ -1,0 +1,15 @@
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.exe
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.deps.json
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.runtimeconfig.json
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.runtimeconfig.dev.json
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.dll
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\bin\Debug\netcoreapp3.1\GreetingApp.pdb
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.csprojAssemblyReference.cache
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.AssemblyInfoInputs.cache
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.AssemblyInfo.cs
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.csproj.CoreCompileInputs.cache
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.dll
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.pdb
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.genruntimeconfig.cache
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.csproj.AssemblyReference.cache
+C:\Users\miko\eclipse-workspace\C# project\src\New folder\GreetingApp\obj\Debug\netcoreapp3.1\GreetingApp.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,9 @@
+package TestFactory;
+
+public class Recommended {
+
+	public Recommended() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

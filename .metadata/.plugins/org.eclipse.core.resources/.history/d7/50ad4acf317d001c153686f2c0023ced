@@ -1,0 +1,17 @@
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+
+public class Drawing extends JFrame {
+	
+	public static void main(String[] args) {
+		Drawing  dr = new Drawing();
+		dr.setSize(400,400);
+		dr.setVisible(true);
+		dr.setLocationRelativeTo(null);
+		
+	}
+}

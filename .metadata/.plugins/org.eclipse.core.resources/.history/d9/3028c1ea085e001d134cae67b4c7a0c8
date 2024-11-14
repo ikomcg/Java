@@ -1,0 +1,9 @@
+package TestFactory;
+
+public class Minimum {
+
+	public Minimum() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

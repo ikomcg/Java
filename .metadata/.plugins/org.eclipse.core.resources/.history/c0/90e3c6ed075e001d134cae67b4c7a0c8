@@ -1,0 +1,9 @@
+package TestFactory;
+
+public abstract class Laptop {
+
+	public Laptop() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

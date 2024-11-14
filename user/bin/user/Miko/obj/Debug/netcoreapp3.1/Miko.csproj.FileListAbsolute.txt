@@ -1,0 +1,14 @@
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.exe
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.deps.json
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.runtimeconfig.json
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.runtimeconfig.dev.json
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.dll
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\bin\Debug\netcoreapp3.1\Miko.pdb
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.AssemblyInfoInputs.cache
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.AssemblyInfo.cs
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.csproj.CoreCompileInputs.cache
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.dll
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.pdb
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.genruntimeconfig.cache
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.csproj.AssemblyReference.cache
+C:\Users\miko\eclipse-workspace\user\src\user\Miko\obj\Debug\netcoreapp3.1\Miko.GeneratedMSBuildEditorConfig.editorconfig

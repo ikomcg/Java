@@ -1,0 +1,18 @@
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.border.*;
+
+public class Drawing extends JFrame {
+	
+	public static void main(String[] args) {
+		Drawing  dr = new Drawing();
+		dr.setSize(400,400);
+		dr.setVisible(true);
+		dr.setLocationRelativeTo(null);
+		
+	}
+	public void paint(Graphics g) {
+		g.drawArc(20, 50 ,100 , 100,0,270);
+		
+	}
+}
